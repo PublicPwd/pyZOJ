@@ -1,0 +1,2 @@
+class ProblemType:
+    Programming = "PROGRAMMING"
